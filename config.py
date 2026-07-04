@@ -1,5 +1,5 @@
 # REQUIRED CONFIG
-BOT_TOKEN = "5022314090:AAE0kGdRavkXzg-YmxxDWCpTObhN5S8Cir0"
+BOT_TOKEN = "5098473420:AAG3HpSWs-hcSeQ3STh3ZeZUoxSzCbcw-uo"
 OWNER_ID = 680745190
 TELEGRAM_API = 2175637
 TELEGRAM_HASH = "3768f77fa58f2ac3ab5e72f7bfa6df34"
@@ -170,7 +170,7 @@ USENET_SERVERS = [
 ]
 
 # Update
-UPSTREAM_REPO = "https://github.com/rachelhasbigtits69/WZMLX_Jul26/"
+UPSTREAM_REPO = "https://github.com/rachelhasbigtits69/Test2/"
 UPSTREAM_BRANCH = "wzv3"
 # Leech
 LEECH_SPLIT_SIZE = 0
